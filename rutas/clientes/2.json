@@ -1,6 +1,6 @@
 [
   {
-    "name": "SKF Guadalajara",
+    "name": "SKF Guadalajara No circular de 6:00am a 9:00am",
     "category": "Clientes Guadalajara",
     "waypoints": [
       {
@@ -36,20 +36,18 @@
         "lng": -103.4949215019884
       },
       {
-        "lat": 20.725778,
-        "lng": -103.485488
+        "lat": 20.725777548920306,
+        "lng": -103.48555682922276
       },
       {
-        "lat": 20.726004,
-        "lng": -103.484794
+        "lat": 20.725581756757776,
+        "lng": -103.48482727465662
       },
       {
         "lat": 20.725339,
         "lng": -103.483989
       }
-    ],
-    "distance": "N/A",
-    "time": "N/A"
+    ]
   },
   {
     "name": "INTEVA - AUTOLIV Matamoros",

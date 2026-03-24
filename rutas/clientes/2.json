@@ -567,7 +567,7 @@
     },
     {
         "name": "San Luis a Queretaro",
-        "category": "CARRETARAS",
+        "category": "CARRETERAS",
         "waypoints": [
             {
                 "lat": 22.00475177143737,
@@ -581,7 +581,7 @@
     },
     {
         "name": "Queretaro a Toluca",
-        "category": "CARRETARAS",
+        "category": "CARRETERAS",
         "waypoints": [
             {
                 "lat": 20.822190797925014,
@@ -659,7 +659,7 @@
     },
     {
         "name": "Queretaro  a  Puebla",
-        "category": "CARRETARAS",
+        "category": "CARRETERAS",
         "waypoints": [
             {
                 "lat": 20.82201241373114,

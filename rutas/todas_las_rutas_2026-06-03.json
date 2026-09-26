@@ -1,5 +1,31 @@
 [
     {
+        "name": "CEDIS Colgate San Jose Iturbide",
+        "category": "SAN JOSE ITURBIDE",
+        "waypoints": [
+            {
+                "lat": 22.00787262498757,
+                "lng": -100.83713352535216
+            },
+            {
+                "lat": 20.98126049743898,
+                "lng": -100.43414713427356
+            },
+            {
+                "lat": 20.972727895210028,
+                "lng": -100.43140323700445
+            },
+            {
+                "lat": 20.976070355745982,
+                "lng": -100.4261706038041
+            },
+            {
+                "lat": 20.974655892579698,
+                "lng": -100.425486488452
+            }
+        ]
+    },
+    {
         "name": "Macimex Toluca",
         "category": "Carreteras",
         "waypoints": [
